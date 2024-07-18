@@ -1,18 +1,9 @@
-## Getting Started
+<h1> DESAFIO: DIAGRAMAÇÃO DE CLASSES DE UM IPHONE. </h1>
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<h2> Descrição do Projeto </h2>
 
-## Folder Structure
+<h3> Neste diagrama, contem a representação de algumas funções do Iphone, sendo elas: de um aparelho telefônico, um reprodutor musical e de um navagador de internet. </h3>
 
-The workspace contains two folders by default, where:
+<h3> Você pode encontrar os arquivos dos códigos-fonte em .java além do diagrama UML. </h3>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![imagem] (img/diagrama.png)
