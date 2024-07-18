@@ -1,4 +1,4 @@
-<h1> DESAFIO: DIAGRAMAÇÃO DE CLASSES DE UM IPHONE. </h1>
+<h1> DESAFIO: DIAGRAMAÇÃO DE CLASSES DE UM IPHONE </h1>
 
 <h2> Descrição do Projeto </h2>
 
@@ -6,4 +6,4 @@
 
 <h3> Você pode encontrar neste repositório os arquivos dos códigos-fonte em .java além do diagrama UML. </h3>
 
-![imagem] (main/img/diagrama.png)
+<img src="img/diagrama.jpg" alt="diagrama">
