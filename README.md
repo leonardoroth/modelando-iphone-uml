@@ -4,6 +4,6 @@
 
 <h3> Neste diagrama, contem a representação de algumas funções do Iphone, sendo elas: de um aparelho telefônico, um reprodutor musical e de um navagador de internet. </h3>
 
-<h3> Você pode encontrar os arquivos dos códigos-fonte em .java além do diagrama UML. </h3>
+<h3> Você pode encontrar neste repositório os arquivos dos códigos-fonte em .java além do diagrama UML. </h3>
 
-![imagem] (img/diagrama.png)
+![imagem] (main/img/diagrama.png)
