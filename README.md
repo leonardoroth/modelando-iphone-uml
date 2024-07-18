@@ -6,6 +6,6 @@
 
 <h3> Você pode encontrar neste repositório os arquivos dos códigos-fonte em .java além do diagrama UML. </h3>
 
-
+<h3> Abaixo, temos a representação do projeto em UML. </h3>
 
 <img src="img/diagrama.png" alt="diagrama">
